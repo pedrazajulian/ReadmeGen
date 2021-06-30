@@ -50,3 +50,5 @@
 
 
   <iframe src="https://drive.google.com/file/d/10I2GWuRi0SZzqdpLcoHsyRW1LQ6Cx0dC/preview" width="640" height="480"></iframe>
+  
+  https://drive.google.com/file/d/10I2GWuRi0SZzqdpLcoHsyRW1LQ6Cx0dC/view
