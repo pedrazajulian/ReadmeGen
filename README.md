@@ -38,6 +38,8 @@
   <ur>
 
   ## 👪 Contributing  
+
+  Julian P
   
   <ur>
 
