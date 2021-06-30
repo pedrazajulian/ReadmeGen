@@ -49,6 +49,5 @@
   Any questions? Contact pedrazajulian@hotmail.com. Access more of my work at [pedrazajulian](https://github.com/pedrazajulian/).
 
 
-  <iframe src="https://drive.google.com/file/d/10I2GWuRi0SZzqdpLcoHsyRW1LQ6Cx0dC/preview" width="640" height="480"></iframe>
-  
-  https://drive.google.com/file/d/10I2GWuRi0SZzqdpLcoHsyRW1LQ6Cx0dC/view
+ ![image](https://user-images.githubusercontent.com/82198241/123889436-84cc5b00-d923-11eb-949a-92c105886838.png)
+
