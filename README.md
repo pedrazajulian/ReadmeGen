@@ -1,10 +1,10 @@
-# ⚡ASDASD⚡
+# ⚡README Professional writter⚡
 
-  ![Github License](https://img.shields.io/badge/license-MIT,Apache,GPL,none-blue.svg)
+  ![Github License](https://img.shields.io/badge/license-MIT-blue.svg)
   
 
   ## Description
-  ASDASDAS
+  A quick application that helps you write README.md files quick and in a professional way.
   
   <ur>
   
@@ -26,24 +26,24 @@
 
   
   ## 💾Installation  
-  ASDASD
+  npm install....node index.js
 
   <ur>
 
   ## 💻 Usage  
-  ASASD
+  this would be use to help you finish your README faster.
   ## License 
-    This project is licensed with MIT,Apache,GPL,none.
+    This project is licensed with MIT.
 
   <ur>
 
   ## 👪 Contributing  
-  ASDASD
+  
   <ur>
 
   ## ✏️ Test 
-  ASDASD
+  npm test
   <ur>
 
   ## ✋ Questions 
-  Any questions? Contact ASDASD. Access more of my work at [ASDASD](https://github.com/ASDASD/).
+  Any questions? Contact pedrazajulian@hotmail.com. Access more of my work at [pedrazajulian](https://github.com/pedrazajulian/).
